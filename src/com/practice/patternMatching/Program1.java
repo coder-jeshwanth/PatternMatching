@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Program1 {
 
 	static void pattern(int n) {
-		for(int i=1;i<=n;i++) {               // no.of.lines
-			for(int j=1;j<=n;j++) {           // no.of.elements
+		for(int i=1;i<=n;i++) {                     // no.of.lines
+			for(int j=1;j<=n;j++) {                 // no.of.elements
 				System.out.print(j%2 + " ");
 			}
 			System.out.println();
@@ -20,3 +20,15 @@ public class Program1 {
 		pattern(n);
 	}
 }
+
+/*
+
+Enter the number
+5
+1 0 1 0 1 
+1 0 1 0 1 
+1 0 1 0 1 
+1 0 1 0 1 
+1 0 1 0 1
+
+*/

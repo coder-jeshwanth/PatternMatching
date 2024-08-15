@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Program5 {
 
 	static void pattern(int n ) {
-		for(int i=1;i<=n;i++) {
+		for(int i=1;i<=n;i++) {                       // no.of.lines
 			System.out.print(i*(i+1)+" ");
 		}
 	}
@@ -17,3 +17,11 @@ public class Program5 {
 		pattern(n);
 	}
 }
+
+/*
+
+Enter the number
+5
+2 6 12 20 30 
+
+*/
