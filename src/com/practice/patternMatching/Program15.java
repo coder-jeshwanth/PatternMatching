@@ -19,3 +19,15 @@ public class Program15 {
 		pattern(n);
 	}
 }
+
+/*
+
+Enter the number
+5
+5 4 3 2 1 
+4 3 2 1 
+3 2 1 
+2 1 
+1 
+
+*/
